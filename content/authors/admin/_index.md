@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alireza Ghasemieh
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Data Science
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Natural Language Processing (NLP)
+- Machine Learning / Deep Learning
+- Big Data
+- Research
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computer Science - Machine Learning
+    institution: Ryerson University
+    year: 2020
+  - course: MBA in Entrepreneurship
+    institution: University of Tehran
+    year: 2016
+  - course: BSc in Electrical and Computer Engineering 
+    institution: K.N.Toosi University of Technology
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,24 +47,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:alireza@ghasemieh.ca".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/AlirezaGh65
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ghasemieh/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ghasemieh
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@a.ghasemieh65
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "alireza@ghasemieh.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data scientist and startup founder with 6+ years' experience delivering end-to-end data analysis and infrastructure projects to multiple $4+ billion clients. Industry background in big data, machine learning systems, NLP and statistics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I work on Forecasting Engine at beCloudReady Inc. and use traditional machine learning techniques as well as deep learning. I solve business problems through the broad-based application of data science and creativity. For example, I co-developed a launch sequence (genetic algorithm) for innovative drugs. The solution helps a European pharmaceutic company to maximize product revenue by 17%.
