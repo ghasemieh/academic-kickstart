@@ -22,9 +22,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Data Science
-- Artificial Intelligence
+- Recommender System
 - Natural Language Processing (NLP)
 - Machine Learning / Deep Learning
+- Artificial Intelligence
 - Big Data
 - Research
 
@@ -33,6 +34,9 @@ education:
   - course: MSc in Computer Science - Machine Learning
     institution: Ryerson University
     year: 2020
+  - course: Data Analytics, Big Data, and Predictive Analytics
+    institution: Ryerson University
+    year: 2018
   - course: MBA in Entrepreneurship
     institution: University of Tehran
     year: 2016
@@ -64,7 +68,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://drive.google.com/file/d/1oMw7B_U2rVpzaHj55Eyh5UbnQP9EhuqU/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "alireza@ghasemieh.ca"

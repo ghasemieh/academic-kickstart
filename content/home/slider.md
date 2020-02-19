@@ -50,7 +50,7 @@ height = ""
   
 [[item]]
   title = "Bugzilla Contributor"
-  content = ""
+  content = "The Mozilla Bug Repository"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
@@ -58,5 +58,5 @@ height = ""
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
   cta_label = "Bugzilla"
-  cta_url = "https://bugzilla.com/"
+  cta_url = "https://bugzilla.mozilla.org/"
 +++
