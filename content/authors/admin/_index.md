@@ -82,4 +82,7 @@ user_groups:
 
 I am a data scientist and startup founder with 6+ years' experience delivering end-to-end data analysis and infrastructure projects to multiple $4+ billion clients. Industry background in big data, machine learning systems, NLP and statistics.
 
-Currently, I work on Forecasting Engine at beCloudReady Inc. and use traditional machine learning techniques as well as deep learning. I solve business problems through the broad-based application of data science and creativity. For example, I co-developed a launch sequence (genetic algorithm) for innovative drugs. The solution helps a European pharmaceutic company to maximize product revenue by 17%.
+Currently, I work on a Duplicate bug report search engine at SharpestMinds Inc. and use natural language processing techniques as well as deep learning. This tool helps developers to detect the duplicate bug reports much faster.
+
+I solve business problems through the broad-based application of data science and creativity. For example, I developed a Dietary Recommendation system using soft machine learning like ANFIS modeling. The solution helps nutritionists to precisely determine the allowable
+intake of sugar and salt for their clients based on the several parameters. 
