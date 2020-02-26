@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Default Risk Predictive Modeling"
-summary: ""
+summary: "Used historical financial information from financial institutions to predict whether a loan applicant will repay a loan or not."
 authors: [Alireza]
 tags: [Default Risk, Predictive Modeling]
 categories: [Predictive Modeling]
